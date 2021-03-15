@@ -17,7 +17,7 @@ title: Egoic
 author: Dion Snoeijen
 email: hallo@dionsnoeijen.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the description of my site. For all intents and purposes, it's complete.
+  Concepts about all kinds of things.
 baseurl: "" # the subpath of your site, e.g. /blog
 google_analytics: 'analytics_key' # change this to your GA key
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,18 +31,6 @@ timezone: Europe/Amsterdam
 markdown: kramdown
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 collections:
   artikelen:
