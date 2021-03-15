@@ -1,16 +1,5 @@
 ---
-layout: default
+layout: section
 ---
-
-{% include index/columns.html %}
-
-<section class="row m-2">
-  <div class="col-md-6">
-    {% include index/categories.html %}
-  </div>
-  <div class="col-md-6">
-    {% include index/favourites.html %}
-  </div>
-</section>
-
-{% include index/video.html %}
+{% include sections/last_post.html last_post=site.articles.last %}
+{% include sections/items_except_last.html items=site.articles %}

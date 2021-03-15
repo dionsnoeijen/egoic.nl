@@ -3,10 +3,10 @@
     password: argon2$argon2i$v=19$m=512,t=2,p=2$ZTRmVXBBUkxRTjNn$JQubyP1BUciAOmjwe9un3A
     last_login: null
     is_superuser: true
-    username: sightsofbcn
-    first_name: ''
-    last_name: ''
-    email: ''
+    username: dion.snoeijen
+    first_name: Dion
+    last_name: Snoeijen
+    email: hallo@dionsnoeijen.nl
     is_staff: true
     is_active: true
     date_joined: 2019-09-24 09:27:24.268813+00:00
