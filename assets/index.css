@@ -312,3 +312,28 @@ blockquote {
 #disqus_thread {
   margin-top: 100px;
 }
+
+.card-body.top {
+  padding-bottom: 0;
+}
+
+.card-body.bottom {
+  padding-top: 0;
+}
+
+.image-container {
+  margin-bottom: 1rem;
+}
+
+.jumbotron {
+  position: relative;
+}
+
+.jumbotron span {
+  display: block;
+  padding: 10px 20px;
+  top: 0;
+  position: absolute;
+  right: 0;
+  background: white;
+}

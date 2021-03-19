@@ -1,17 +1,23 @@
 <div class="container list-post">
   <div class="row">
-    <div class="col-md-8">
-      <div class="card-body">
+    <div class="col-md-12">
+      <div class="card-body top">
         <a href="{{ include.last_post.url | prepend: site.baseurl }}" class="text-reset">
           <h3>{{ include.last_post.title }}</h3>
         </a>
-        <p class="card-text">{{ include.last_post.excerpt }}</p>
-        <p class="card-text"><small class="text-muted">{{ include.last_post.date | date_to_long_string }}</small></p>
-        <a href="{{ include.last_post.url | prepend: site.baseurl }}">Lees verder</a>
       </div>
     </div>
-    <div class="col-md-4">
-      <img src="{{ include.last_post.image }}" class="w-100" alt="image of {{ include.last_post.title }}">
+  </div>
+  <div class="row">
+    <div class="col-md-8">
+      <div class="card-body bottom">
+        <p class="card-text">{{ include.last_post.excerpt }}</p>
+        <a href="{{ include.last_post.url | prepend: site.baseurl }}">Lees verder</a>
+        <p class="card-text"><small class="text-muted">{{ include.last_post.date | date_to_long_string }}</small></p>
+      </div>
+    </div>
+    <div class="col-md-4 image-container">
+      <img src="{{ include.last_post.thumbnail }}" class="w-100" alt="image of {{ include.last_post.title }}">
     </div>
   </div>
 </div>

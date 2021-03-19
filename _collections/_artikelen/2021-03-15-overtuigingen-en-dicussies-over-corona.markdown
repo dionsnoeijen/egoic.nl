@@ -4,7 +4,8 @@ title:  "Overtuigingen en discussies over Corona"
 description: Je kan niemand overtuigen, maar dat wil niet zeggen dat je niks kan doen.
 author: Dion Snoeijen
 date: 2021-03-15 10:10:10 +0200
-image: /assets/images/article-image.png
+thumbnail: /assets/images/overtuiging/tlaloc.jpg
+image: /assets/images/overtuiging/article-image.png
 rating: 1
 comments: true
 ---
@@ -79,4 +80,4 @@ Als het je lukt om dit idee echt te accepteren, heeft dat een uitwerking die voe
 
 Je zult merken dat die houding een veel openhartiger gesprek oplevert. Mensen zullen zo graag antwoorden op je oprechte vragen dat je zelf vaak niet eens de kans krijgt om te zeggen hoe je er zelf over denkt. Accepteer dus ook dat je meestal niet de kans krijgt om je eigen gedachten te delen maar dat je veel meer bezig zal zijn met het luisteren naar de gedachten van de ander. Wil je de gedachten van een ander kunnen veranderen, zul je minstens bereid moeten zijn om die van jou ook te veranderen. Op die manier, kun je de prijs helpen verlagen in plaats van alleen maar hoger maken. Het cliché: Een betere wereld begint bij jezelf, is ook het eerste dat hier zich aandient. 
 
-Dit opent de weg naar enkele andere inzichten die ik wil delen. Want helemaal niets doen en alleen maar luisteren naar Tlaloc aanbidders, voelt zwak, er vallen namelijk slachtoffers! Nee, je kan informatie verstrekken op een manier die vindbaar is voor iedereen die er klaar voor is. Hoe zou die informatie er dan uit zien? Het volgende artikel zal daar over gaan.
+Dit opent de weg naar enkele andere inzichten die ik wil delen. Want helemaal niets doen en alleen maar luisteren naar Tlaloc aanbidders, voelt zwak, er vallen namelijk slachtoffers! Nee, je kan informatie verstrekken op een manier die vindbaar is voor iedereen die er klaar voor is. Hoe zou die informatie er dan uit zien? Daar zal ik later meer over zeggen.

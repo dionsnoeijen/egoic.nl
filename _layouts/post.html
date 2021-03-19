@@ -15,6 +15,7 @@ layout: default
 </header>
 
 <div class="jumbotron" style="background-image: url({{ page.image }}); background-size: cover;">
+  <span>{{ page.author }}</span>
 </div>
 
 <article class="container">
@@ -30,8 +31,6 @@ layout: default
       <div class="row">
         <div class="offset-lg-2 col-lg-9">
           {{ content }}
-
-          <p>{{ page.author }}</p>
 
           {% if page.comments %}
           <div id="disqus_thread"></div>
