@@ -3,7 +3,7 @@ layout: post
 title: "Het coronageloof overtuigt niet genoeg"
 description: Censuur, Experts en Sociale controle. Het wekt een onbehaaglijk gevoel van herkenning op. Hier ben ik al eerder geweest en het voelde toen ook al niet goed. Hoe de mindset van fundamentalistisch gelovingen lijkt op die van het coronageloof.
 author: Dion Snoeijen
-date: 2021-03-15 10:10:10 +0200
+date: 2021-03-20 10:10:10 +0200
 thumbnail: /assets/images/geloof/armageddon.jpg
 image: /assets/images/geloof/article-image.png
 rating: 1
